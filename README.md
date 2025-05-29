@@ -21,5 +21,14 @@ https://www.youtube.com/watch?v=MdEYUliufmk
 Transformer models and BERT model: Overview
 https://www.youtube.com/watch?v=t45S_MwAcOw
 
+Clase 3: Fine-tuning Bert y ChatGPT
+
+Curso LLM 
+https://huggingface.co/learn/llm-course/es/chapter2/4?fw=pt
+
+
+
+
+
 
 
